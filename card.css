@@ -9,7 +9,8 @@ body{
     background-color: rgb(176, 78, 78);
     height: 500px;
     width: 300px;
-    padding: 50px;    
+    padding: 50px;  
+    border: red solid;  
 }
 .logo{
     padding-left: 40px;
